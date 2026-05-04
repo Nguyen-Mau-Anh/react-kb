@@ -39,7 +39,7 @@ Local state, global state, and server state.
 - [03 — Data fetching: TanStack Query v5 vs SWR 2](./04.state-and-data/03-data-fetching.md) ✅
 
 ### 5. Routing & Styling — `05.routing-and-styling/`
-- [01 — Routing: react-router-dom 6, data routers, loaders, actions](./05.routing-and-styling/01-routing-react-router.md) ⏳
+- [01 — Routing: react-router-dom 6, data routers, loaders, actions](./05.routing-and-styling/01-routing-react-router.md) ✅
 - [02 — Styling: Tailwind 3 vs CSS Modules vs styled-components 6](./05.routing-and-styling/02-styling.md) ⏳
 - [03 — TypeScript with React: types, generics, utility types](./05.routing-and-styling/03-typescript-with-react.md) ⏳
 
