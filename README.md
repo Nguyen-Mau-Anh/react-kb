@@ -10,7 +10,7 @@ Every topic follows the **What / Why / How** structure with real names, real use
 |---|-------|--------|
 | 00 | [How React Works: VDOM, Fiber, Reconciliation](./00-how-react-works/README.md) | ✅ Done |
 | 01 | [JSX & Rendering: what JSX compiles to, ReactDOM.createRoot](./01-jsx-and-rendering/README.md) | ✅ Done |
-| 02 | [Components & Props: function components, prop types, composition](./02-components-props/README.md) | ⏳ Pending |
+| 02 | [Components & Props: function components, prop types, composition](./02-components-props/README.md) | ✅ Done |
 | 03 | [State with useState: local state, batching, derived state](./03-state-usestate/README.md) | ⏳ Pending |
 | 04 | [Side Effects with useEffect: deps array, cleanup, pitfalls](./04-useeffect/README.md) | ⏳ Pending |
 | 05 | [Event Handling: synthetic events, delegation, patterns](./05-event-handling/README.md) | ⏳ Pending |
