@@ -49,7 +49,7 @@ Local state, global state, and server state.
 
 ### 7. Next.js — `07.nextjs/`
 The most common React framework today.
-- [01 — Fundamentals: App Router, file conventions, Server Components](./07.nextjs/01-fundamentals.md) ⏳
+- [01 — Fundamentals: App Router, file conventions, Server Components](./07.nextjs/01-fundamentals.md) ✅
 - [02 — Routing: layouts, loading, error, parallel, intercepting](./07.nextjs/02-routing.md) ⏳
 - [03 — Data fetching: fetch caching, revalidate, Server Actions](./07.nextjs/03-data-fetching.md) ⏳
 - [04 — Auth: NextAuth 5 (Auth.js), middleware, sessions](./07.nextjs/04-auth.md) ⏳
