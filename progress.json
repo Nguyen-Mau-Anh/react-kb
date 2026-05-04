@@ -1,9 +1,9 @@
 {
-  "current_topic": 0,
+  "current_topic": 1,
   "total_topics": 30,
   "topics": [
     { "id": 0,  "slug": "00-how-react-works",          "title": "How React Works: VDOM, Fiber, Reconciliation",                    "status": "done" },
-    { "id": 1,  "slug": "01-jsx-and-rendering",         "title": "JSX & Rendering: what JSX compiles to, ReactDOM.createRoot",       "status": "pending" },
+    { "id": 1,  "slug": "01-jsx-and-rendering",         "title": "JSX & Rendering: what JSX compiles to, ReactDOM.createRoot",       "status": "done" },
     { "id": 2,  "slug": "02-components-props",          "title": "Components & Props: function components, prop types, composition",  "status": "pending" },
     { "id": 3,  "slug": "03-state-usestate",            "title": "State with useState: local state, batching, derived state",        "status": "pending" },
     { "id": 4,  "slug": "04-useeffect",                 "title": "Side Effects with useEffect: deps array, cleanup, pitfalls",       "status": "pending" },
