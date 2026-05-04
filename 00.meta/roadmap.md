@@ -78,7 +78,7 @@ Each topic must follow **What / Why / How** structure in that order.
 - [x] `07.nextjs/01-fundamentals.md` — Next.js 14 App Router, file conventions, Server Components
 - [x] `07.nextjs/02-routing.md` — Layouts, loading.tsx, error.tsx, parallel and intercepting routes
 - [x] `07.nextjs/03-data-fetching.md` — fetch caching, revalidate, Server Actions, `useActionState`
-- [ ] `07.nextjs/04-auth.md` — `next-auth@5` (Auth.js), middleware, sessions, providers
+- [x] `07.nextjs/04-auth.md` — `next-auth@5` (Auth.js), middleware, sessions, providers
 - [ ] `07.nextjs/05-deployment.md` — Vercel vs Docker on Railway/Fly.io vs self-host
 - [ ] `07.nextjs/06-api-routes.md` — Route Handlers, `trpc@11`, `hono@4` for serverless edge
 - [ ] `07.nextjs/07-seo-metadata.md` — Metadata API, Open Graph, JSON-LD, `next-sitemap`
