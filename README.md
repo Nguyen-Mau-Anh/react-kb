@@ -44,7 +44,7 @@ Local state, global state, and server state.
 - [03 — TypeScript with React: types, generics, utility types](./05.routing-and-styling/03-typescript-with-react.md) ✅
 
 ### 6. Testing & Performance — `06.testing-perf/`
-- [01 — Testing: Vitest 1 + RTL 15 vs Jest 29](./06.testing-perf/01-testing.md) ⏳
+- [01 — Testing: Vitest 1 + RTL 15 vs Jest 29](./06.testing-perf/01-testing.md) ✅
 - [02 — Performance: React.memo, lazy/Suspense, profiler, bundle analysis](./06.testing-perf/02-performance.md) ⏳
 
 ### 7. Next.js — `07.nextjs/`
