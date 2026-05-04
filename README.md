@@ -30,7 +30,7 @@ Every built-in hook with the pitfalls people actually hit.
 How React builds UI from data.
 - [01 — Event Handling: SyntheticEvent, delegation, pointer events](./03.rendering-patterns/01-event-handling.md) ✅
 - [02 — Conditional rendering & lists: key prop, virtualization](./03.rendering-patterns/02-conditional-lists.md) ✅
-- [03 — Component patterns: compound, render props, HOC, slots](./03.rendering-patterns/03-component-patterns.md) ⏳
+- [03 — Component patterns: compound, render props, HOC, slots](./03.rendering-patterns/03-component-patterns.md) ✅
 
 ### 4. State & Data — `04.state-and-data/`
 Local state, global state, and server state.

@@ -37,12 +37,12 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Group 3 — Rendering Patterns (Iteration 3)
+## Group 3 — Rendering Patterns (Iteration 3) ✅
 *How React builds UI from data.*
 
 - [x] `03.rendering-patterns/01-event-handling.md` — SyntheticEvent, delegation, pointer events
 - [x] `03.rendering-patterns/02-conditional-lists.md` — Key prop bugs, virtualization with `@tanstack/react-virtual@3`
-- [ ] `03.rendering-patterns/03-component-patterns.md` — Compound, render props, HOC, slot patterns — when each fits
+- [x] `03.rendering-patterns/03-component-patterns.md` — Compound, render props, HOC, slot patterns — when each fits
 
 ---
 
