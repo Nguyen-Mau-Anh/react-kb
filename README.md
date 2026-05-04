@@ -35,7 +35,7 @@ How React builds UI from data.
 ### 4. State & Data — `04.state-and-data/`
 Local state, global state, and server state.
 - [01 — Forms: controlled vs uncontrolled, react-hook-form 7 + Zod 3](./04.state-and-data/01-forms.md) ✅
-- [02 — State management: Context vs Zustand 4 vs Redux Toolkit 2](./04.state-and-data/02-state-management.md) ⏳
+- [02 — State management: Context vs Zustand 4 vs Redux Toolkit 2](./04.state-and-data/02-state-management.md) ✅
 - [03 — Data fetching: TanStack Query v5 vs SWR 2](./04.state-and-data/03-data-fetching.md) ⏳
 
 ### 5. Routing & Styling — `05.routing-and-styling/`

@@ -50,7 +50,7 @@ Each topic must follow **What / Why / How** structure in that order.
 *Local state, global state, and server state.*
 
 - [x] `04.state-and-data/01-forms.md` — Controlled vs uncontrolled, `react-hook-form@7.51` + `zod@3.23`
-- [ ] `04.state-and-data/02-state-management.md` — Context vs `zustand@4.5` vs `@reduxjs/toolkit@2`
+- [x] `04.state-and-data/02-state-management.md` — Context vs `zustand@4.5` vs `@reduxjs/toolkit@2`
 - [ ] `04.state-and-data/03-data-fetching.md` — `@tanstack/react-query@5.28` vs `swr@2.2` vs raw fetch
 
 ---
