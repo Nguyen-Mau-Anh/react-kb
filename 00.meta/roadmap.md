@@ -64,11 +64,11 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Group 6 — Testing & Performance (Iteration 6)
+## Group 6 — Testing & Performance (Iteration 6) ✅
 *Confidence and speed.*
 
 - [x] `06.testing-perf/01-testing.md` — `vitest@1.6` + `@testing-library/react@15` vs Jest 29
-- [ ] `06.testing-perf/02-performance.md` — `React.memo`, lazy/Suspense, profiler, bundle analysis with `rollup-plugin-visualizer`
+- [x] `06.testing-perf/02-performance.md` — `React.memo`, lazy/Suspense, profiler, bundle analysis with `rollup-plugin-visualizer`
 
 ---
 
