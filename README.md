@@ -14,7 +14,7 @@ Every topic follows the **What / Why / How** structure with real names, real use
 | 03 | [State with useState: local state, batching, derived state](./03-state-usestate/README.md) | ✅ Done |
 | 04 | [Side Effects with useEffect: deps array, cleanup, pitfalls](./04-useeffect/README.md) | ✅ Done |
 | 05 | [Event Handling: synthetic events, delegation, patterns](./05-event-handling/README.md) | ✅ Done |
-| 06 | [Conditional Rendering & Lists: key prop, reconciliation impact](./06-conditional-lists/README.md) | ⏳ Pending |
+| 06 | [Conditional Rendering & Lists: key prop, reconciliation impact](./06-conditional-lists/README.md) | ✅ Done |
 | 07 | [Forms: controlled vs uncontrolled, react-hook-form 7 vs Formik 2](./07-forms/README.md) | ⏳ Pending |
 | 08 | [useRef & useContext: DOM access, context patterns, pitfalls](./08-useref-usecontext/README.md) | ⏳ Pending |
 | 09 | [useMemo & useCallback: when to memoize, real perf impact](./09-usememo-usecallback/README.md) | ⏳ Pending |

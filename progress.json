@@ -1,5 +1,5 @@
 {
-  "current_topic": 5,
+  "current_topic": 6,
   "total_topics": 30,
   "topics": [
     { "id": 0,  "slug": "00-how-react-works",          "title": "How React Works: VDOM, Fiber, Reconciliation",                    "status": "done" },
@@ -8,7 +8,7 @@
     { "id": 3,  "slug": "03-state-usestate",            "title": "State with useState: local state, batching, derived state",        "status": "done" },
     { "id": 4,  "slug": "04-useeffect",                 "title": "Side Effects with useEffect: deps array, cleanup, pitfalls",       "status": "done" },
     { "id": 5,  "slug": "05-event-handling",            "title": "Event Handling: synthetic events, delegation, patterns",           "status": "done" },
-    { "id": 6,  "slug": "06-conditional-lists",         "title": "Conditional Rendering & Lists: key prop, reconciliation impact",   "status": "pending" },
+    { "id": 6,  "slug": "06-conditional-lists",         "title": "Conditional Rendering & Lists: key prop, reconciliation impact",   "status": "done" },
     { "id": 7,  "slug": "07-forms",                     "title": "Forms: controlled vs uncontrolled, react-hook-form 7 vs Formik 2", "status": "pending" },
     { "id": 8,  "slug": "08-useref-usecontext",         "title": "useRef & useContext: DOM access, context patterns, pitfalls",      "status": "pending" },
     { "id": 9,  "slug": "09-usememo-usecallback",       "title": "useMemo & useCallback: when to memoize, real perf impact",        "status": "pending" },
