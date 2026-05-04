@@ -59,7 +59,7 @@ Each topic must follow **What / Why / How** structure in that order.
 *Client routing and how to make things look right.*
 
 - [x] `05.routing-and-styling/01-routing-react-router.md` — `react-router-dom@6.22` data routers, loaders, actions
-- [ ] `05.routing-and-styling/02-styling.md` — `tailwindcss@3.4` vs CSS Modules vs `styled-components@6.1`
+- [x] `05.routing-and-styling/02-styling.md` — `tailwindcss@3.4` vs CSS Modules vs `styled-components@6.1`
 - [ ] `05.routing-and-styling/03-typescript-with-react.md` — Component types, generics, event types, utility types
 
 ---
