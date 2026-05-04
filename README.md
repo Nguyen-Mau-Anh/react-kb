@@ -24,7 +24,7 @@ Every built-in hook with the pitfalls people actually hit.
 - [02 — useEffect: when NOT to use it, deps, cleanup, Strict Mode](./02.hooks/02-useeffect.md) ✅
 - [03 — useRef & useContext: DOM access, forwardRef, context perf](./02.hooks/03-useref-usecontext.md) ✅
 - [04 — useMemo & useCallback: when memoization pays off](./02.hooks/04-usememo-usecallback.md) ✅
-- [05 — Custom hooks: extraction patterns, useFetch/useDebounce](./02.hooks/05-custom-hooks.md) ⏳
+- [05 — Custom hooks: extraction patterns, useFetch/useDebounce](./02.hooks/05-custom-hooks.md) ✅
 
 ### 3. Rendering Patterns — `03.rendering-patterns/`
 How React builds UI from data.

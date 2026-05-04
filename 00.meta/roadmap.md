@@ -26,14 +26,14 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Group 2 — Hooks (Iteration 2) 🚧
+## Group 2 — Hooks (Iteration 2) ✅
 *Every built-in hook, with the pitfalls people actually hit.*
 
 - [x] `02.hooks/01-usestate.md` — Updater fn, batching, derived state, lazy init, key reset
 - [x] `02.hooks/02-useeffect.md` — When NOT to use it, deps array, cleanup, Strict Mode, race conditions
 - [x] `02.hooks/03-useref-usecontext.md` — DOM refs, forwardRef, context perf, provider composition
 - [x] `02.hooks/04-usememo-usecallback.md` — When memoization actually pays off, React Compiler future
-- [ ] `02.hooks/05-custom-hooks.md` — Extraction patterns, useFetch / useLocalStorage / useDebounce
+- [x] `02.hooks/05-custom-hooks.md` — Extraction patterns, useFetch / useLocalStorage / useDebounce
 
 ---
 
