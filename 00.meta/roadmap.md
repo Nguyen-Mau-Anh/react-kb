@@ -76,7 +76,7 @@ Each topic must follow **What / Why / How** structure in that order.
 *The most common React framework today.*
 
 - [x] `07.nextjs/01-fundamentals.md` — Next.js 14 App Router, file conventions, Server Components
-- [ ] `07.nextjs/02-routing.md` — Layouts, loading.tsx, error.tsx, parallel and intercepting routes
+- [x] `07.nextjs/02-routing.md` — Layouts, loading.tsx, error.tsx, parallel and intercepting routes
 - [ ] `07.nextjs/03-data-fetching.md` — fetch caching, revalidate, Server Actions, `useActionState`
 - [ ] `07.nextjs/04-auth.md` — `next-auth@5` (Auth.js), middleware, sessions, providers
 - [ ] `07.nextjs/05-deployment.md` — Vercel vs Docker on Railway/Fly.io vs self-host
