@@ -123,7 +123,7 @@ Each topic must follow **What / Why / How** structure in that order.
 - [x] `11.capabilities/01-payments.md` — Stripe `@stripe/react-stripe-js@2` Payment Element, Checkout vs Elements, subscriptions, webhooks
 - [x] `11.capabilities/02-file-uploads.md` — direct-to-S3 / R2 / Vercel Blob with signed URLs, `react-dropzone@14`, resumable with `tus-js-client@4`
 - [x] `11.capabilities/03-email.md` — `react-email@3` + `resend@3` for transactional, MJML alternatives, deliverability basics
-- [ ] `11.capabilities/04-pwa.md` — `@serwist/next@9` (Workbox successor), install prompts, push notifications, offline-first
+- [x] `11.capabilities/04-pwa.md` — `@serwist/next@9` (Workbox successor), install prompts, push notifications, offline-first
 - [ ] `11.capabilities/05-accessibility.md` — `@axe-core/react@4` audits, focus management, keyboard nav, screen-reader testing
 
 When Group 11 is done, append five new topics and continue.
