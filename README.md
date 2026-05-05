@@ -99,10 +99,10 @@ The work that turns "production" into "production for years."
 ### 13. Service Stack — `13.service-stack/`
 Libs and frameworks that pair with React beyond Next.js itself.
 - [01 — tRPC 11 deep dive: middleware, context, batching, links, subscriptions, transformers](./13.service-stack/01-trpc-deep.md) ✅
-- [02 — GraphQL with React: Apollo 3 vs urql 4 vs Relay 18, codegen, subscriptions](./13.service-stack/02-graphql.md) ⏳
-- [03 — Background jobs: Inngest 3 vs Trigger.dev 3 vs BullMQ 5 vs QStash 2](./13.service-stack/03-background-jobs.md) ⏳
-- [04 — Search: Algolia vs Typesense vs MeiliSearch vs Postgres full-text + pg_trgm](./13.service-stack/04-search.md) ⏳
-- [05 — Headless CMS: Sanity 3 vs Contentful vs Payload 3 vs Strapi 5](./13.service-stack/05-headless-cms.md) ⏳
+- [02 — GraphQL with React: Apollo 3 vs urql 4 vs Relay 18, codegen, subscriptions](./13.service-stack/02-graphql.md) ✅
+- [03 — Background jobs: Inngest 3 vs Trigger.dev 3 vs BullMQ 5 vs QStash 2](./13.service-stack/03-background-jobs.md) ✅
+- [04 — Search: Algolia vs Typesense vs MeiliSearch vs Postgres full-text + pg_trgm](./13.service-stack/04-search.md) ✅
+- [05 — Headless CMS: Sanity 3 vs Contentful vs Payload 3 vs Strapi 5](./13.service-stack/05-headless-cms.md) ✅
 
 ✅ Done · ⏳ Pending
 
