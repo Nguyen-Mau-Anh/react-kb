@@ -139,12 +139,13 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Curriculum Complete (50 topics across 12 groups)
+## Group 13 — Service Stack (Iteration 14) 🚧
+*Libs and frameworks that pair with React beyond Next.js itself.*
 
-The original curriculum + 4 expansion groups are all closed. The repo now mirrors the
-springboot-kb / angular-kb structure with a complete top-to-bottom React + Next.js path:
-fundamentals → hooks → patterns → state/data → routing/styling → testing/perf → Next.js →
-ecosystem → beyond-web → production polish → real-world capabilities → quality at scale.
+- [x] `13.service-stack/01-trpc-deep.md` — `@trpc/server@11` deep dive: middleware, context, batching, links, subscriptions, transformers
+- [ ] `13.service-stack/02-graphql.md` — GraphQL with React: `@apollo/client@3.11` vs `urql@4` vs `relay@18`, codegen, subscriptions
+- [ ] `13.service-stack/03-background-jobs.md` — `inngest@3` vs `@trigger.dev/sdk@3` vs `bullmq@5` vs `@upstash/qstash@2` for async work
+- [ ] `13.service-stack/04-search.md` — Algolia vs Typesense vs MeiliSearch vs Postgres full-text + `pg_trgm`
+- [ ] `13.service-stack/05-headless-cms.md` — `sanity@3` vs Contentful vs `payload@3` vs `strapi@5` for content-driven React/Next.js
 
-To extend: append a new `## Group 13 — <theme>` section with five `[ ]` items and
-a matching folder. Same conventions apply.
+When Group 13 is done, append five new topics and continue.
