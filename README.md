@@ -74,7 +74,7 @@ React past the browser: native, real-time, AI, advanced state.
 
 ### 10. Production Polish — `10.production/`
 The work that turns "ships" into "scales."
-- [01 — Rich text editors: Tiptap 2 vs Lexical vs Slate](./10.production/01-rich-text-editors.md) ⏳
+- [01 — Rich text editors: Tiptap 2 vs Lexical vs Slate](./10.production/01-rich-text-editors.md) ✅
 - [02 — Drag & kanban: dnd-kit deep dive, sortable lists, virtualized drag](./10.production/02-drag-and-kanban.md) ⏳
 - [03 — Charts & viz: Recharts 2 vs ECharts vs visx vs Nivo](./10.production/03-charts-and-viz.md) ⏳
 - [04 — Observability: Sentry 8, OpenTelemetry, Vercel Analytics + Speed Insights](./10.production/04-observability.md) ⏳

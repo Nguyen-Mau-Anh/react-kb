@@ -109,7 +109,7 @@ Each topic must follow **What / Why / How** structure in that order.
 ## Group 10 — Production Polish (Iteration 11) 🚧
 *The work that turns "ships" into "scales."*
 
-- [ ] `10.production/01-rich-text-editors.md` — `@tiptap/react@2` vs `lexical@0.18` vs `slate@0.103` for inline + block editors
+- [x] `10.production/01-rich-text-editors.md` — `@tiptap/react@2` vs `lexical@0.18` vs `slate@0.103` for inline + block editors
 - [ ] `10.production/02-drag-and-kanban.md` — `@dnd-kit/core@6` deep dive: sortable lists, multi-list kanban, virtualized drag
 - [ ] `10.production/03-charts-and-viz.md` — `recharts@2.12` vs `echarts-for-react@3.0` vs `visx@3` vs `@nivo@0.87`
 - [ ] `10.production/04-observability.md` — `@sentry/nextjs@8`, OpenTelemetry, Vercel Analytics + Speed Insights, log shipping
