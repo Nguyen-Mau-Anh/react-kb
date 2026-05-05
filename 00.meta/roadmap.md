@@ -95,13 +95,24 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Group 9 — Beyond the Web (Iteration 10) 🚧
+## Group 9 — Beyond the Web (Iteration 10) ✅
 *React past the browser: native, real-time, AI, advanced state.*
 
 - [x] `09.beyond-web/01-react-native-expo.md` — React Native with Expo SDK 51, `expo-router@3`, Tamagui 1 vs Nativewind 4
 - [x] `09.beyond-web/02-react-19-features.md` — `use()`, Actions, `useOptimistic`, `useFormStatus`, React Compiler in production
 - [x] `09.beyond-web/03-realtime.md` — `partykit@0.x` vs `liveblocks@2` vs Supabase Realtime vs `socket.io@4`
 - [x] `09.beyond-web/04-ai-integration.md` — Vercel AI SDK 4, streaming chat UIs, tool-calling agents, RAG patterns
-- [ ] `09.beyond-web/05-state-machines.md` — `xstate@5` for wizards, multi-step checkouts, drag-snap interactions
+- [x] `09.beyond-web/05-state-machines.md` — `xstate@5` for wizards, multi-step checkouts, drag-snap interactions
 
-When Group 9 is done, append five new topics and continue (likely: rich text editors, drag/kanban deep dive, charts, observability, mobile DX).
+---
+
+## Group 10 — Production Polish (Iteration 11) 🚧
+*The work that turns "ships" into "scales."*
+
+- [ ] `10.production/01-rich-text-editors.md` — `@tiptap/react@2` vs `lexical@0.18` vs `slate@0.103` for inline + block editors
+- [ ] `10.production/02-drag-and-kanban.md` — `@dnd-kit/core@6` deep dive: sortable lists, multi-list kanban, virtualized drag
+- [ ] `10.production/03-charts-and-viz.md` — `recharts@2.12` vs `echarts-for-react@3.0` vs `visx@3` vs `@nivo@0.87`
+- [ ] `10.production/04-observability.md` — `@sentry/nextjs@8`, OpenTelemetry, Vercel Analytics + Speed Insights, log shipping
+- [ ] `10.production/05-i18n.md` — `next-intl@3` vs `react-i18next@15` vs Next.js built-in routing, ICU MessageFormat, RTL
+
+When Group 10 is done, append five new topics and continue (likely: PWAs, payments, file uploads, email, accessibility audits).

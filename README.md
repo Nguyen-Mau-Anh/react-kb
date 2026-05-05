@@ -70,7 +70,15 @@ React past the browser: native, real-time, AI, advanced state.
 - [02 — React 19 features: use(), Actions, useOptimistic, the Compiler](./09.beyond-web/02-react-19-features.md) ✅
 - [03 — Real-time: PartyKit vs Liveblocks 2 vs Supabase Realtime vs Socket.IO 4](./09.beyond-web/03-realtime.md) ✅
 - [04 — AI integration: Vercel AI SDK 4, streaming, tool-calling, RAG](./09.beyond-web/04-ai-integration.md) ✅
-- [05 — State machines: xstate 5 for wizards and multi-step flows](./09.beyond-web/05-state-machines.md) ⏳
+- [05 — State machines: xstate 5 for wizards and multi-step flows](./09.beyond-web/05-state-machines.md) ✅
+
+### 10. Production Polish — `10.production/`
+The work that turns "ships" into "scales."
+- [01 — Rich text editors: Tiptap 2 vs Lexical vs Slate](./10.production/01-rich-text-editors.md) ⏳
+- [02 — Drag & kanban: dnd-kit deep dive, sortable lists, virtualized drag](./10.production/02-drag-and-kanban.md) ⏳
+- [03 — Charts & viz: Recharts 2 vs ECharts vs visx vs Nivo](./10.production/03-charts-and-viz.md) ⏳
+- [04 — Observability: Sentry 8, OpenTelemetry, Vercel Analytics + Speed Insights](./10.production/04-observability.md) ⏳
+- [05 — i18n: next-intl 3 vs react-i18next 15, ICU MessageFormat, RTL](./10.production/05-i18n.md) ⏳
 
 ✅ Done · ⏳ Pending
 
