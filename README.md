@@ -82,7 +82,7 @@ The work that turns "ships" into "scales."
 
 ### 11. Real-World Capabilities — `11.capabilities/`
 Features users actually pay for.
-- [01 — Payments: Stripe Payment Element, Checkout, subscriptions, webhooks](./11.capabilities/01-payments.md) ⏳
+- [01 — Payments: Stripe Payment Element, Checkout, subscriptions, webhooks](./11.capabilities/01-payments.md) ✅
 - [02 — File uploads: signed URLs, react-dropzone, tus resumable](./11.capabilities/02-file-uploads.md) ⏳
 - [03 — Email: react-email 3 + Resend 3, MJML, deliverability](./11.capabilities/03-email.md) ⏳
 - [04 — PWA: Serwist 9, install prompts, push notifications, offline](./11.capabilities/04-pwa.md) ⏳
