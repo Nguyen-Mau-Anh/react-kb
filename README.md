@@ -67,7 +67,7 @@ Libraries you reach for after the framework is set.
 ### 9. Beyond the Web — `09.beyond-web/`
 React past the browser: native, real-time, AI, advanced state.
 - [01 — React Native with Expo SDK 51, expo-router, Tamagui vs Nativewind](./09.beyond-web/01-react-native-expo.md) ✅
-- [02 — React 19 features: use(), Actions, useOptimistic, the Compiler](./09.beyond-web/02-react-19-features.md) ⏳
+- [02 — React 19 features: use(), Actions, useOptimistic, the Compiler](./09.beyond-web/02-react-19-features.md) ✅
 - [03 — Real-time: PartyKit vs Liveblocks 2 vs Supabase Realtime vs Socket.IO 4](./09.beyond-web/03-realtime.md) ⏳
 - [04 — AI integration: Vercel AI SDK 4, streaming, tool-calling, RAG](./09.beyond-web/04-ai-integration.md) ⏳
 - [05 — State machines: xstate 5 for wizards and multi-step flows](./09.beyond-web/05-state-machines.md) ⏳
