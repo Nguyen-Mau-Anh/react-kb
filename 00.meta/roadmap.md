@@ -72,7 +72,7 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Group 7 — Next.js (Iterations 7–8)
+## Group 7 — Next.js (Iterations 7–8) ✅
 *The most common React framework today.*
 
 - [x] `07.nextjs/01-fundamentals.md` — Next.js 14 App Router, file conventions, Server Components
@@ -81,7 +81,7 @@ Each topic must follow **What / Why / How** structure in that order.
 - [x] `07.nextjs/04-auth.md` — `next-auth@5` (Auth.js), middleware, sessions, providers
 - [x] `07.nextjs/05-deployment.md` — Vercel vs Docker on Railway/Fly.io vs self-host
 - [x] `07.nextjs/06-api-routes.md` — Route Handlers, `trpc@11`, `hono@4` for serverless edge
-- [ ] `07.nextjs/07-seo-metadata.md` — Metadata API, Open Graph, JSON-LD, `next-sitemap`
+- [x] `07.nextjs/07-seo-metadata.md` — Metadata API, Open Graph, JSON-LD, `next-sitemap`
 
 ---
 

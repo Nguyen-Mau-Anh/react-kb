@@ -55,7 +55,7 @@ The most common React framework today.
 - [04 — Auth: NextAuth 5 (Auth.js), middleware, sessions](./07.nextjs/04-auth.md) ✅
 - [05 — Deployment: Vercel vs Docker on Railway vs self-host](./07.nextjs/05-deployment.md) ✅
 - [06 — API Routes: Route Handlers + tRPC 11 + Hono 4](./07.nextjs/06-api-routes.md) ✅
-- [07 — SEO & Metadata: Metadata API, OG, JSON-LD](./07.nextjs/07-seo-metadata.md) ⏳
+- [07 — SEO & Metadata: Metadata API, OG, JSON-LD](./07.nextjs/07-seo-metadata.md) ✅
 
 ### 8. Ecosystem — `08.ecosystem/`
 Libraries you reach for after the framework is set.
