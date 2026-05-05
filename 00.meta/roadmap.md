@@ -101,7 +101,7 @@ Each topic must follow **What / Why / How** structure in that order.
 - [x] `09.beyond-web/01-react-native-expo.md` — React Native with Expo SDK 51, `expo-router@3`, Tamagui 1 vs Nativewind 4
 - [x] `09.beyond-web/02-react-19-features.md` — `use()`, Actions, `useOptimistic`, `useFormStatus`, React Compiler in production
 - [x] `09.beyond-web/03-realtime.md` — `partykit@0.x` vs `liveblocks@2` vs Supabase Realtime vs `socket.io@4`
-- [ ] `09.beyond-web/04-ai-integration.md` — Vercel AI SDK 4, streaming chat UIs, tool-calling agents, RAG patterns
+- [x] `09.beyond-web/04-ai-integration.md` — Vercel AI SDK 4, streaming chat UIs, tool-calling agents, RAG patterns
 - [ ] `09.beyond-web/05-state-machines.md` — `xstate@5` for wizards, multi-step checkouts, drag-snap interactions
 
 When Group 9 is done, append five new topics and continue (likely: rich text editors, drag/kanban deep dive, charts, observability, mobile DX).
