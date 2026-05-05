@@ -98,7 +98,7 @@ Each topic must follow **What / Why / How** structure in that order.
 ## Group 9 — Beyond the Web (Iteration 10) 🚧
 *React past the browser: native, real-time, AI, advanced state.*
 
-- [ ] `09.beyond-web/01-react-native-expo.md` — React Native with Expo SDK 51, `expo-router@3`, Tamagui 1 vs Nativewind 4
+- [x] `09.beyond-web/01-react-native-expo.md` — React Native with Expo SDK 51, `expo-router@3`, Tamagui 1 vs Nativewind 4
 - [ ] `09.beyond-web/02-react-19-features.md` — `use()`, Actions, `useOptimistic`, `useFormStatus`, React Compiler in production
 - [ ] `09.beyond-web/03-realtime.md` — `partykit@0.x` vs `liveblocks@2` vs Supabase Realtime vs `socket.io@4`
 - [ ] `09.beyond-web/04-ai-integration.md` — Vercel AI SDK 4, streaming chat UIs, tool-calling agents, RAG patterns
