@@ -106,13 +106,24 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Group 10 — Production Polish (Iteration 11) 🚧
+## Group 10 — Production Polish (Iteration 11) ✅
 *The work that turns "ships" into "scales."*
 
 - [x] `10.production/01-rich-text-editors.md` — `@tiptap/react@2` vs `lexical@0.18` vs `slate@0.103` for inline + block editors
 - [x] `10.production/02-drag-and-kanban.md` — `@dnd-kit/core@6` deep dive: sortable lists, multi-list kanban, virtualized drag
 - [x] `10.production/03-charts-and-viz.md` — `recharts@2.12` vs `echarts-for-react@3.0` vs `visx@3` vs `@nivo@0.87`
 - [x] `10.production/04-observability.md` — `@sentry/nextjs@8`, OpenTelemetry, Vercel Analytics + Speed Insights, log shipping
-- [ ] `10.production/05-i18n.md` — `next-intl@3` vs `react-i18next@15` vs Next.js built-in routing, ICU MessageFormat, RTL
+- [x] `10.production/05-i18n.md` — `next-intl@3` vs `react-i18next@15` vs Next.js built-in routing, ICU MessageFormat, RTL
 
-When Group 10 is done, append five new topics and continue (likely: PWAs, payments, file uploads, email, accessibility audits).
+---
+
+## Group 11 — Real-World Capabilities (Iteration 12) 🚧
+*Features users actually pay for: payments, files, email, PWA, a11y.*
+
+- [ ] `11.capabilities/01-payments.md` — Stripe `@stripe/react-stripe-js@2` Payment Element, Checkout vs Elements, subscriptions, webhooks
+- [ ] `11.capabilities/02-file-uploads.md` — direct-to-S3 / R2 / Vercel Blob with signed URLs, `react-dropzone@14`, resumable with `tus-js-client@4`
+- [ ] `11.capabilities/03-email.md` — `react-email@3` + `resend@3` for transactional, MJML alternatives, deliverability basics
+- [ ] `11.capabilities/04-pwa.md` — `@serwist/next@9` (Workbox successor), install prompts, push notifications, offline-first
+- [ ] `11.capabilities/05-accessibility.md` — `@axe-core/react@4` audits, focus management, keyboard nav, screen-reader testing
+
+When Group 11 is done, append five new topics and continue.

@@ -78,7 +78,15 @@ The work that turns "ships" into "scales."
 - [02 — Drag & kanban: dnd-kit deep dive, sortable lists, virtualized drag](./10.production/02-drag-and-kanban.md) ✅
 - [03 — Charts & viz: Recharts 2 vs ECharts vs visx vs Nivo](./10.production/03-charts-and-viz.md) ✅
 - [04 — Observability: Sentry 8, OpenTelemetry, Vercel Analytics + Speed Insights](./10.production/04-observability.md) ✅
-- [05 — i18n: next-intl 3 vs react-i18next 15, ICU MessageFormat, RTL](./10.production/05-i18n.md) ⏳
+- [05 — i18n: next-intl 3 vs react-i18next 15, ICU MessageFormat, RTL](./10.production/05-i18n.md) ✅
+
+### 11. Real-World Capabilities — `11.capabilities/`
+Features users actually pay for.
+- [01 — Payments: Stripe Payment Element, Checkout, subscriptions, webhooks](./11.capabilities/01-payments.md) ⏳
+- [02 — File uploads: signed URLs, react-dropzone, tus resumable](./11.capabilities/02-file-uploads.md) ⏳
+- [03 — Email: react-email 3 + Resend 3, MJML, deliverability](./11.capabilities/03-email.md) ⏳
+- [04 — PWA: Serwist 9, install prompts, push notifications, offline](./11.capabilities/04-pwa.md) ⏳
+- [05 — Accessibility: axe-core, focus management, keyboard nav, screen readers](./11.capabilities/05-accessibility.md) ⏳
 
 ✅ Done · ⏳ Pending
 
