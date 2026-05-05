@@ -117,13 +117,24 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Group 11 — Real-World Capabilities (Iteration 12) 🚧
+## Group 11 — Real-World Capabilities (Iteration 12) ✅
 *Features users actually pay for: payments, files, email, PWA, a11y.*
 
 - [x] `11.capabilities/01-payments.md` — Stripe `@stripe/react-stripe-js@2` Payment Element, Checkout vs Elements, subscriptions, webhooks
 - [x] `11.capabilities/02-file-uploads.md` — direct-to-S3 / R2 / Vercel Blob with signed URLs, `react-dropzone@14`, resumable with `tus-js-client@4`
 - [x] `11.capabilities/03-email.md` — `react-email@3` + `resend@3` for transactional, MJML alternatives, deliverability basics
 - [x] `11.capabilities/04-pwa.md` — `@serwist/next@9` (Workbox successor), install prompts, push notifications, offline-first
-- [ ] `11.capabilities/05-accessibility.md` — `@axe-core/react@4` audits, focus management, keyboard nav, screen-reader testing
+- [x] `11.capabilities/05-accessibility.md` — `@axe-core/react@4` audits, focus management, keyboard nav, screen-reader testing
 
-When Group 11 is done, append five new topics and continue.
+---
+
+## Group 12 — Quality at Scale (Iteration 13) 🚧
+*The work that turns "production" into "production for years."*
+
+- [ ] `12.quality-at-scale/01-feature-flags.md` — `posthog-js@1.155` flags vs LaunchDarkly 7 vs Vercel Edge Config, flag-driven rollouts
+- [ ] `12.quality-at-scale/02-experimentation-ab.md` — A/B testing with `posthog-js`, GrowthBook 3, statistical-significance basics
+- [ ] `12.quality-at-scale/03-e2e-playwright.md` — Playwright 1.46 deep dive: fixtures, page objects, visual regression, sharding
+- [ ] `12.quality-at-scale/04-storybook.md` — Storybook 8.3 for component-driven development, Chromatic, visual regression
+- [ ] `12.quality-at-scale/05-design-system.md` — Building a shared design system: tokens, component library, versioning, consumer apps
+
+When Group 12 is done, append five new topics and continue.
