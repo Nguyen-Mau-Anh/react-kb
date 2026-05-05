@@ -89,7 +89,7 @@ Each topic must follow **What / Why / How** structure in that order.
 *The libraries you reach for after the framework is set.*
 
 - [x] `08.ecosystem/01-animation.md` — `framer-motion@11` vs `react-spring@9` vs CSS transitions
-- [ ] `08.ecosystem/02-ui-libraries.md` — `shadcn/ui` (Radix UI 1.x copy-paste) vs `@mui/material@6` vs Headless UI 2
+- [x] `08.ecosystem/02-ui-libraries.md` — `shadcn/ui` (Radix UI 1.x copy-paste) vs `@mui/material@6` vs Headless UI 2
 - [ ] `08.ecosystem/03-monorepo.md` — `turbo@2` vs `nx@19` for shared React component libraries
 - [ ] `08.ecosystem/04-real-project.md` — Full-stack Task Manager: Next.js 14 + Prisma 5 + tRPC 11 + NextAuth 5
 
