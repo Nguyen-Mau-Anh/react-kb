@@ -59,7 +59,7 @@ The most common React framework today.
 
 ### 8. Ecosystem — `08.ecosystem/`
 Libraries you reach for after the framework is set.
-- [01 — Animation: Framer Motion 11 vs React Spring 9](./08.ecosystem/01-animation.md) ⏳
+- [01 — Animation: Framer Motion 11 vs React Spring 9](./08.ecosystem/01-animation.md) ✅
 - [02 — UI libraries: shadcn/ui vs MUI 6 vs Headless UI 2](./08.ecosystem/02-ui-libraries.md) ⏳
 - [03 — Monorepo: Turbo 2 vs Nx 19 for shared component libs](./08.ecosystem/03-monorepo.md) ⏳
 - [04 — Real project: Next.js 14 + Prisma 5 + tRPC 11 + NextAuth 5](./08.ecosystem/04-real-project.md) ⏳
