@@ -128,13 +128,23 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Group 12 — Quality at Scale (Iteration 13) 🚧
+## Group 12 — Quality at Scale (Iteration 13) ✅
 *The work that turns "production" into "production for years."*
 
 - [x] `12.quality-at-scale/01-feature-flags.md` — `posthog-js@1.155` flags vs LaunchDarkly 7 vs Vercel Edge Config, flag-driven rollouts
 - [x] `12.quality-at-scale/02-experimentation-ab.md` — A/B testing with `posthog-js`, GrowthBook 3, statistical-significance basics
-- [ ] `12.quality-at-scale/03-e2e-playwright.md` — Playwright 1.46 deep dive: fixtures, page objects, visual regression, sharding
-- [ ] `12.quality-at-scale/04-storybook.md` — Storybook 8.3 for component-driven development, Chromatic, visual regression
-- [ ] `12.quality-at-scale/05-design-system.md` — Building a shared design system: tokens, component library, versioning, consumer apps
+- [x] `12.quality-at-scale/03-e2e-playwright.md` — Playwright 1.46 deep dive: fixtures, page objects, visual regression, sharding
+- [x] `12.quality-at-scale/04-storybook.md` — Storybook 8.3 for component-driven development, Chromatic, visual regression
+- [x] `12.quality-at-scale/05-design-system.md` — Building a shared design system: tokens, component library, versioning, consumer apps
 
-When Group 12 is done, append five new topics and continue.
+---
+
+## Curriculum Complete (50 topics across 12 groups)
+
+The original curriculum + 4 expansion groups are all closed. The repo now mirrors the
+springboot-kb / angular-kb structure with a complete top-to-bottom React + Next.js path:
+fundamentals → hooks → patterns → state/data → routing/styling → testing/perf → Next.js →
+ecosystem → beyond-web → production polish → real-world capabilities → quality at scale.
+
+To extend: append a new `## Group 13 — <theme>` section with five `[ ]` items and
+a matching folder. Same conventions apply.

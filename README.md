@@ -92,9 +92,9 @@ Features users actually pay for.
 The work that turns "production" into "production for years."
 - [01 — Feature flags: PostHog vs LaunchDarkly 7 vs Vercel Edge Config](./12.quality-at-scale/01-feature-flags.md) ✅
 - [02 — A/B testing: PostHog experiments, GrowthBook 3, statistical significance](./12.quality-at-scale/02-experimentation-ab.md) ✅
-- [03 — E2E with Playwright 1.46: fixtures, page objects, visual regression, sharding](./12.quality-at-scale/03-e2e-playwright.md) ⏳
-- [04 — Storybook 8.3: component-driven development + Chromatic visual regression](./12.quality-at-scale/04-storybook.md) ⏳
-- [05 — Design systems: tokens, shared component library, versioning, consumer apps](./12.quality-at-scale/05-design-system.md) ⏳
+- [03 — E2E with Playwright 1.46: fixtures, page objects, visual regression, sharding](./12.quality-at-scale/03-e2e-playwright.md) ✅
+- [04 — Storybook 8.3: component-driven development + Chromatic visual regression](./12.quality-at-scale/04-storybook.md) ✅
+- [05 — Design systems: tokens, shared component library, versioning, consumer apps](./12.quality-at-scale/05-design-system.md) ✅
 
 ✅ Done · ⏳ Pending
 
