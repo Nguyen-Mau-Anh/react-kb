@@ -85,18 +85,23 @@ Each topic must follow **What / Why / How** structure in that order.
 
 ---
 
-## Group 8 — Ecosystem (Iterations 9+)
+## Group 8 — Ecosystem (Iterations 9+) ✅
 *The libraries you reach for after the framework is set.*
 
 - [x] `08.ecosystem/01-animation.md` — `framer-motion@11` vs `react-spring@9` vs CSS transitions
 - [x] `08.ecosystem/02-ui-libraries.md` — `shadcn/ui` (Radix UI 1.x copy-paste) vs `@mui/material@6` vs Headless UI 2
 - [x] `08.ecosystem/03-monorepo.md` — `turbo@2` vs `nx@19` for shared React component libraries
-- [ ] `08.ecosystem/04-real-project.md` — Full-stack Task Manager: Next.js 14 + Prisma 5 + tRPC 11 + NextAuth 5
+- [x] `08.ecosystem/04-real-project.md` — Full-stack Task Manager: Next.js 14 + Prisma 5 + tRPC 11 + NextAuth 5
 
 ---
 
-## Group 9 — Future Iterations (defined when Group 8 is reached)
+## Group 9 — Beyond the Web (Iteration 10) 🚧
+*React past the browser: native, real-time, AI, advanced state.*
 
-Reserved for: React Native with Expo SDK 51, React 19 features deep dive (use, Actions, useFormStatus, useOptimistic), state machines with `xstate@5`, real-time with `partykit` or `liveblocks@2`, drag-and-drop with `@dnd-kit/core@6`, rich text with `tiptap@2`, charts with `recharts@2.12` vs `echarts-for-react@3`, etc.
+- [ ] `09.beyond-web/01-react-native-expo.md` — React Native with Expo SDK 51, `expo-router@3`, Tamagui 1 vs Nativewind 4
+- [ ] `09.beyond-web/02-react-19-features.md` — `use()`, Actions, `useOptimistic`, `useFormStatus`, React Compiler in production
+- [ ] `09.beyond-web/03-realtime.md` — `partykit@0.x` vs `liveblocks@2` vs Supabase Realtime vs `socket.io@4`
+- [ ] `09.beyond-web/04-ai-integration.md` — Vercel AI SDK 4, streaming chat UIs, tool-calling agents, RAG patterns
+- [ ] `09.beyond-web/05-state-machines.md` — `xstate@5` for wizards, multi-step checkouts, drag-snap interactions
 
-When Group 8 is done, append five new topics here and continue.
+When Group 9 is done, append five new topics and continue (likely: rich text editors, drag/kanban deep dive, charts, observability, mobile DX).
