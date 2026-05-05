@@ -111,7 +111,7 @@ Each topic must follow **What / Why / How** structure in that order.
 
 - [x] `10.production/01-rich-text-editors.md` — `@tiptap/react@2` vs `lexical@0.18` vs `slate@0.103` for inline + block editors
 - [x] `10.production/02-drag-and-kanban.md` — `@dnd-kit/core@6` deep dive: sortable lists, multi-list kanban, virtualized drag
-- [ ] `10.production/03-charts-and-viz.md` — `recharts@2.12` vs `echarts-for-react@3.0` vs `visx@3` vs `@nivo@0.87`
+- [x] `10.production/03-charts-and-viz.md` — `recharts@2.12` vs `echarts-for-react@3.0` vs `visx@3` vs `@nivo@0.87`
 - [ ] `10.production/04-observability.md` — `@sentry/nextjs@8`, OpenTelemetry, Vercel Analytics + Speed Insights, log shipping
 - [ ] `10.production/05-i18n.md` — `next-intl@3` vs `react-i18next@15` vs Next.js built-in routing, ICU MessageFormat, RTL
 
